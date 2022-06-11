@@ -1,0 +1,26 @@
+id: I88CDBD58
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-11T13:17:06.276435'
+last_modified: '2022-06-11T13:17:06.276445'
+parser: null
+source_metadata:
+  title: Yangchen Drubpe Dorje Series
+  language: en
+  description: 'A series of texts by the famous master Yangchen Drubpe Dorje (dbyangs
+    can grub pa''i rdo rje, 1809–1887):'
+  volume:
+    f4544:
+      title: 'The Magical Wish-Fulfilling Tree: The Essence of Thönmi’s Masterpiece
+        ''The Thirty Verses'''
+      base_file: f4544.txt
+      order: 1
+      parent: Grammar
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
